@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "domain": "University IT Services and Admissions",
+    "institution": "Northfield University (fictional)",
+    "version": "1.0"
+  },
+  "faqs": [
+    {
+      "category": "IT Services",
+      "question": "How do I reset my university account password?",
+      "answer": "Go to the self-service portal at accounts.northfield.edu and select 'Forgot Password'. Verify your identity with your registered mobile number or backup email, then choose a new password of at least 12 characters. If you are locked out and cannot verify, visit the IT Help Desk with a photo ID.",
+      "keywords": [
+        "forgot password", "locked out", "change credentials", "login problem", "cannot sign in",
+        "reset pass", "change password", "cant login", "lost password", "account recovery", 
+        "portal login", "passwrd", "pasword", "pssword", "log in issue", "forgot pass"
+      ]
+    },
+    {
+      "category": "IT Services",
+      "question": "How do I connect to the campus Wi-Fi network?",
+      "answer": "Select the 'NorthfieldSecure' network on your device and sign in with your university username and password. Install the security profile when prompted. Guests can use 'NorthfieldGuest', which requires a daily registration code from the visitor portal.",
+      "keywords": [
+        "wifi", "wireless", "internet access", "network", "eduroam", "connect laptop",
+        "campus wifi", "connect internet", "wifi password", "wlan", "hotspot", "no internet",
+        "connect to wifi", "connet wifi", "wifii", "wi-fi", "net access", "connect phone to wifi"
+      ]
+    },
+    {
+      "category": "IT Services",
+      "question": "How do I set up the university VPN for off-campus access?",
+      "answer": "Download the Northfield VPN client from software.northfield.edu, install it, and connect to vpn.northfield.edu using your university credentials and multi-factor approval. The VPN is required to reach library databases, research servers, and internal systems from outside campus.",
+      "keywords": [
+        "remote access", "work from home", "off campus", "virtual private network", "tunnel",
+        "vpn setup", "install vpn", "client download", "access from home", "vpn login", 
+        "vpnn", "vpm", "connect outside campus"
+      ]
+    },
+    {
+      "category": "IT Services",
+      "question": "How do I enroll in multi-factor authentication?",
+      "answer": "Visit mfa.northfield.edu, sign in, and choose an authenticator app, a hardware security key, or SMS as your second factor. Scan the QR code with your authenticator app and enter the six-digit code to finish. Save your recovery codes in a safe place.",
+      "keywords": [
+        "two-factor", "2fa", "mfa", "authenticator", "security code", "verification",
+        "otp", "two step", "google authenticator", "setup 2fa", "login code", "sms code", 
+        "autheticator", "multifactor", "2 factor"
+      ]
+    },
+    {
+      "category": "IT Services",
+      "question": "How can I access my student email account?",
+      "answer": "Your student email is hosted on Microsoft 365. Sign in at outlook.northfield.edu with your full university email address (username@students.northfield.edu). You can also add the account to the Outlook or Mail app on your phone.",
+      "keywords": [
+        "outlook", "inbox", "e-mail", "webmail", "microsoft 365", "mailbox",
+        "student email", "check mail", "uni email", "college email", "mail login", 
+        "emial", "outlok", "stuent mail"
+      ]
+    },
+    {
+      "category": "IT Services",
+      "question": "Where can I download free software like Microsoft Office?",
+      "answer": "Enrolled students can download Microsoft Office, Adobe Creative Cloud, MATLAB, and other licensed applications at software.northfield.edu. Sign in with your university account and follow the installation guide for your operating system. Licences remain active while you are enrolled.",
+      "keywords": [
+        "install", "license", "word excel powerpoint", "adobe", "matlab", "application download",
+        "free software", "office 365", "ms office", "download apps", "student tools", 
+        "softwares", "ms word", "licence", "free apps"
+      ]
+    },
+    {
+      "category": "IT Services",
+      "question": "How do I print or scan documents on campus?",
+      "answer": "Use any PrintStation in the library or computing labs. Tap your student ID card, then release your job from the queue. Every student receives a quota of 500 pages per semester, and additional pages cost 5 cents each. Mobile printing is available through print.northfield.edu.",
+      "keywords": [
+        "printer", "copy", "photocopy", "print quota", "printing credit", "scanner",
+        "print papers", "scanning", "how to print", "printing charges", "print station", 
+        "printout", "prnt", "priting"
+      ]
+    },
+    {
+      "category": "IT Services",
+      "question": "How do I report a phishing or suspicious email?",
+      "answer": "Do not click links or open attachments. Use the 'Report Phish' button in Outlook, or forward the message as an attachment to security@northfield.edu. If you already entered your password, change it immediately and contact the IT Security team.",
+      "keywords": [
+        "spam", "scam", "malicious", "fraud email", "hacked", "cybersecurity",
+        "suspicious mail", "fake email", "phishing link", "compromised account", 
+        "phish", "scam mail", "virus email"
+      ]
+    },
+    {
+      "category": "IT Services",
+      "question": "What are the IT Help Desk hours and how do I contact them?",
+      "answer": "The IT Help Desk is open Monday to Friday, 8:00 AM to 8:00 PM, and Saturday 10:00 AM to 4:00 PM. Reach us at helpdesk@northfield.edu, by phone at 555-0142, or through the live chat on the IT portal. The desk is located on the ground floor of the Main Library.",
+      "keywords": [
+        "support", "technical support", "opening hours", "phone number", "contact IT", "assistance",
+        "it department", "call it", "helpdesk", "tech help", "it timing", "it support", 
+        "it contact", "hlpdesk", "suport"
+      ]
+    },
+    {
+      "category": "Library",
+      "question": "How can I access library databases and e-journals from home?",
+      "answer": "Open library.northfield.edu, select a database, and sign in with your university account when prompted. If you are off campus and the database does not open, connect to the university VPN first. Librarians can help via chat during opening hours.",
+      "keywords": [
+        "academic journals", "research articles", "ebooks", "remote library", "papers", "proxy",
+        "library access", "research papers", "online books", "library login", "reading material", 
+        "libary", "jurnals", "eboks"
+      ]
+    },
+    {
+      "category": "Admissions",
+      "question": "How do I apply for undergraduate admission?",
+      "answer": "Complete the online application at admissions.northfield.edu, create an applicant account, fill in your academic history, write the personal statement, and pay the application fee. Once submitted, upload your supporting documents. You will receive a confirmation email with your applicant ID.",
+      "keywords": [
+        "apply", "enrol", "enroll", "join university", "bachelor", "new student", "admission process",
+        "bachelors", "bs", "undergraduate", "ug admission", "how to apply", "freshman", 
+        "starting college", "take admission", "apply online", "bachelors program", "admisn", "aply", "bachlors"
+      ]
+    },
+    {
+      "category": "Admissions",
+      "question": "What are the application deadlines?",
+      "answer": "Early Action applications close on November 1, Regular Decision applications close on January 15, and Spring Entry applications close on October 1. Financial aid forms and scholarship essays share the same deadlines. Late applications are reviewed only if places remain.",
+      "keywords": [
+        "due date", "cutoff", "last day to apply", "closing date", "when to submit", "time limit",
+        "admission deadline", "last date", "application date", "entry deadline", "last day", 
+        "dead line", "dadline", "dedline", "end date"
+      ]
+    },
+    {
+      "category": "Admissions",
+      "question": "Can the application fee be waived?",
+      "answer": "Yes. The $60 application fee is waived for applicants who qualify for a national free or reduced lunch programme, have received a college-board fee waiver, or demonstrate financial hardship. Select the fee waiver option in the application and attach supporting evidence.",
+      "keywords": [
+        "fee exemption", "free application", "cost to apply", "waiver", "pay application", "hardship",
+        "application waiver", "no fee application", "discount on application", "waive fee", 
+        "waiver request", "application fee cost"
+      ]
+    },
+    {
+      "category": "Admissions",
+      "question": "What documents are required for my application?",
+      "answer": "You need official secondary school transcripts, standardised test scores (optional for most programmes), a personal statement, two recommendation letters, and a copy of your passport or national ID. International applicants must also provide proof of English proficiency.",
+      "keywords": [
+        "paperwork", "requirements", "certificates", "supporting documents", "recommendation letter", "eligibility",
+        "needed documents", "transcripts needed", "lor", "sop", "marksheet required", "doc list", 
+        "documnts", "requirments", "certifcate"
+      ]
+    },
+    {
+      "category": "Admissions",
+      "question": "How can I check the status of my application?",
+      "answer": "Sign in to the applicant portal at admissions.northfield.edu and open the 'Application Status' tab. The checklist shows which documents have been received and whether your file is complete or under review. Decisions are posted to the portal and emailed to you.",
+      "keywords": [
+        "track application", "decision", "result", "update", "progress", "acceptance letter",
+        "check application", "status check", "am i accepted", "admission status", "offer letter", 
+        "check status", "staus", "aplication status"
+      ]
+    },
+    {
+      "category": "Admissions",
+      "question": "What English proficiency scores do international students need?",
+      "answer": "Undergraduate applicants need a minimum TOEFL iBT score of 80, IELTS Academic 6.5, or Duolingo English Test 110. Graduate programmes require TOEFL 90 or IELTS 7.0. Students who completed their secondary education in English may request an exemption.",
+      "keywords": [
+        "TOEFL", "IELTS", "language requirement", "foreign applicant", "visa", "overseas", "english test",
+        "duolingo score", "ielts requirement", "toefl score", "language score", "english band", 
+        "ielt", "tofel", "proficency"
+      ]
+    },
+    {
+      "category": "Financial",
+      "question": "How much is tuition and how do I pay my fees?",
+      "answer": "Undergraduate tuition is $14,500 per semester for full-time students. Pay online through the Student Finance portal using bank transfer or credit card, or enrol in a monthly instalment plan with a small administration fee. Payment is due two weeks before the semester begins.",
+      "keywords": [
+        "cost", "price", "installments", "payment plan", "bill", "invoice", "fees due",
+        "tuition", "tuition fees", "fee payment", "how to pay fee", "fees", "semester fee", 
+        "pay fees", "university fee", "college charges", "fes", "fe", "tution", "tuion", "paymet", "feez"
+      ]
+    },
+    {
+      "category": "Financial",
+      "question": "What scholarships and financial aid are available?",
+      "answer": "Northfield offers merit scholarships of up to 50 percent of tuition, need-based grants, and work-study positions. Submit the financial aid application and scholarship essay by the admission deadline. Aid packages are announced together with admission decisions.",
+      "keywords": [
+        "bursary", "funding", "grant", "student loan", "financial assistance", "merit award", "afford",
+        "scholarship", "financial aid", "discount", "fee reduction", "merit scholarship", 
+        "scholorship", "scholarshps", "finaid", "financial support"
+      ]
+    },
+    {
+      "category": "Admissions",
+      "question": "Can I transfer credits from another college?",
+      "answer": "Yes. Submit official transcripts and course syllabi from your previous institution. The registrar will evaluate courses completed with a grade of C or higher at accredited institutions, and up to 60 credits may be transferred toward an undergraduate degree.",
+      "keywords": [
+        "credit transfer", "previous university", "equivalency", "transfer student", "prior learning", "switch colleges",
+        "course transfer", "transfer policy", "switch university", "migrate", "credit exemption", 
+        "transfr", "migrat"
+      ]
+    },
+    {
+      "category": "Admissions",
+      "question": "Can I defer my admission to the next year?",
+      "answer": "Admitted students may request a one-year deferral by submitting the Deferral Form and a short statement of your plans before May 1. Pay the enrolment deposit to hold your place. Scholarship offers are reviewed again when you re-enrol.",
+      "keywords": [
+        "postpone", "gap year", "delay enrollment", "start later", "hold my place", "defer",
+        "defer admission", "take gap", "delay admission", "join next semester", "postpone start", 
+        "deferral", "defr"
+      ]
+    },
+    {
+      "category": "Registrar",
+      "question": "How do I register for courses or change my schedule?",
+      "answer": "Log in to the Student Information System and open 'Course Registration'. Search by subject or course code, add classes to your cart, and submit. You can add or drop courses without penalty during the first two weeks of the semester. Meet your academic advisor if you need a registration hold lifted.",
+      "keywords": [
+        "enroll in classes", "timetable", "add drop", "class schedule", "modules", "withdraw from course",
+        "course selection", "register subjects", "change classes", "class timetable", "subject registration", 
+        "registraton", "schedul", "subjets"
+      ]
+    },
+    {
+      "category": "Registrar",
+      "question": "How do I request an official transcript?",
+      "answer": "Order transcripts through the Registrar's page in the Student Information System. Electronic transcripts are delivered within one business day for $5, and printed sealed transcripts are mailed within five business days for $10. Holds on your account must be cleared first.",
+      "keywords": [
+        "academic record", "grades report", "certified copy", "mark sheet", "diploma", "send results",
+        "get transcript", "official grades", "dmc", "degree copy", "transcript fee", 
+        "transript", "trascript", "official results"
+      ]
+    },
+    {
+      "category": "Housing",
+      "question": "How do I apply for on-campus housing?",
+      "answer": "After accepting your admission offer, log in to the Housing Portal and complete the residence application with your room-type preferences and roommate requests. Applications are allocated in order of deposit date, so submit your $300 deposit as soon as possible.",
+      "keywords": [
+        "dormitory", "dorm", "residence hall", "accommodation", "room", "live on campus", "roommate",
+        "hostel", "hostel admission", "living on campus", "campus residence", "student housing", 
+        "hostle", "dorms", "accomodation"
+      ]
+    }
+  ]
+}
